@@ -1,0 +1,104 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Podamibe Facebook Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-08 06:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.2"
+
+#: inc/podamibe-facebook-widget.php:119
+msgid "Cover Image Option :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:145
+msgid "Events"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:88
+msgid "Facebook App Id :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:81
+msgid "Facebook Page URL :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:102
+msgid "Height :"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://podamibenepal.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://podamibenepal.com/wordpress-plugins/"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:129
+msgid "Liked Users :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:66
+msgid "Main Icon :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:74
+msgid "Main Title :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:146
+msgid "Messages"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:113 inc/podamibe-facebook-widget.php:123
+#: inc/podamibe-facebook-widget.php:133
+msgid "No"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:19
+msgid "Podamibe Facebook Feeds"
+msgstr ""
+
+#. Name of the plugin
+msgid "Podamibe Facebook Widget"
+msgstr ""
+
+#. Author of the plugin
+msgid "Podamibe Nepal"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:109
+msgid "Small Header Option :"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin is used for displaying facebook feeds on your desired sidebars "
+"with various settings."
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:144
+msgid "Timeline"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:20
+msgid "Widget to display Facebook Feed on sidebar"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:95
+msgid "Width :"
+msgstr ""
+
+#: inc/podamibe-facebook-widget.php:112 inc/podamibe-facebook-widget.php:122
+#: inc/podamibe-facebook-widget.php:132
+msgid "Yes"
+msgstr ""
